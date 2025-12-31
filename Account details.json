@@ -1,4 +1,17 @@
 [
-  {"account_number": 445645045, "name": "xxx", "current_balance": "1 Million"},
-  {"account_number": 123456789, "name": "Test user", "current_balance": "1 Lakh"}
+    {
+        "account_number": 445645045,
+        "name": "xxx",
+        "current_balance": 1000000
+    },
+    {
+        "account_number": 123456789,
+        "name": "Test user",
+        "current_balance": 998900
+    },
+    {
+        "account_number": 749952743,
+        "name": "Zainab bibi",
+        "current_balance": 9510
+    }
 ]
