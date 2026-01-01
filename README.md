@@ -1,7 +1,7 @@
 # PyBank - Simple CLI Banking System
 
 ## Description
-PyBank is a simple command-line banking system built in Python.  
+This is a simple command-line banking system built in Python.  
 It allows users to:
 - Create accounts
 - Check account balances
